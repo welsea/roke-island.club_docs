@@ -20,3 +20,7 @@ type: about
 
 也可以发邮件给：`roke.island.club@gmail.com` 
  
+
+ ## 其他信息
+我们的服务器购买于Hetzner， DNS使用Cloudflare，域名购买于Pokebun。
+账号的统一注册地为挪威。

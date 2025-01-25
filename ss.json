@@ -1,0 +1,5 @@
+ln -s /etc/nginx/sites-available/docs.roke-island.club /etc/nginx/sites-enabled/docs.roke-island.club
+
+
+ssl_certificate /etc/letsencrypt/live/docs.roke-island.club/fullchain.pem; # managed by Certbot
+ssl_certificate_key /etc/letsencrypt/live/docs.roke-island.club/privkey.pem; # managed by Certbot
