@@ -10,17 +10,16 @@ type: about
 
 
 ## 俱乐部的主题是...？
-> 本俱乐部目前只支持邀请码注册
-
 这里是大家工作学习生活之余可以前来放松的地方，无论你是巫师也好，对魔法根本不感兴趣也好，人也好，龙也好，如果你想来，随时欢迎哦！
 
 
 ## 想和负责人谈谈
-如果你有fedi账号的话可以联系： `@welsea@roke-island.club` 或者 `@welsea@welsea.site`。
+如果你有fedi账号的话可以联系： `@welsea@roke-island.club`。
 
 也可以发邮件给：`roke.island.club@gmail.com` 
  
 
  ## 其他信息
 我们的服务器购买于Hetzner， DNS使用Cloudflare，域名购买于Pokebun。
+<br />
 账号的统一注册地为挪威。

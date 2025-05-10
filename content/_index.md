@@ -8,8 +8,9 @@ toc: false
 <br />
 </div>
 <div style="font-size:1.5em; color:purple; font-weight:300">
-欢迎来到柔克岛俱乐部的档案室!
+欢迎来到<a href="https://roke-island.club" style="color:purple;">柔克岛俱乐部</a>的档案室!
 </div>
+
 
 
 
